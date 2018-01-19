@@ -136,7 +136,7 @@ if rentalCode == 'D':
     averageDayMiles = totalMiles / int(rentalPeriod)
     if averageDayMiles > 100:
         extraMiles = averageDayMiles - 100
-        mileCharge = float(extraMiles) * 0.25
+        mileCharge = float(extraMiles) * 0.25 * float(rentalPeriod)
         baseCharge += mileCharge
 
 # c)	Code 'W' (weekly) mileage charge: no charge if the
@@ -149,7 +149,7 @@ if rentalCode == 'D':
 if rentalCode == 'W':
     averageWeekMiles = totalMiles / int(rentalPeriod)
     if averageWeekMiles > 900:
-        mileCharge = float(rentalPeriod) * 100.00
+        mileCharge = float(rentalPeriod) * 100.00 * float(rentalPeriod)
         baseCharge += mileCharge
 
 '''

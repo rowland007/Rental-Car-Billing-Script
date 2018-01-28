@@ -1,5 +1,5 @@
 """
-Program:		CapstoneProject
+Program:		Rental Car
 Author:			Randall Rowland
 Class:			IT-140-Q3788 Introduction to Scripting 18EW3
 Instructor:		Angel D. Cross

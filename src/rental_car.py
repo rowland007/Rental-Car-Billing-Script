@@ -1,6 +1,7 @@
 """
 Program:		Rental Car
 Author:			Randall Rowland
+Repository:     https://git.io/vNDRe
 Class:			IT-140-Q3788 Introduction to Scripting 18EW3
 Instructor:		Angel D. Cross
 Date:			18 Jan 2018

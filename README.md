@@ -1,9 +1,9 @@
 # Rental Car Billing Script
-This repository is used for the first assignment for the class IT-140-Q3788 Introduction to Scripting 18EW3 at Southern New Hampshire University. This first artifact will address basic data types and decision-making control structures (branched and while loops). Review the Final Project Script One Draft Guidelines and Rubric document for additional details to complete this assignment. The starter file for this assignment can be accessed in Codio. 
+This repository is used for the first assignment for the class IT-140-Q3788 Introduction to Scripting 18EW3 at Southern New Hampshire University. This first artifact will address basic data types and decision-making control structures (branched and while loops). Review the Final Project Script One ~~Draft~~ Guidelines and Rubric document for additional details to complete this assignment. The starter file for this assignment can be accessed in Codio. 
 
 ## Overview:
 For your final project, you will be creating four small scripts. Collectively, the four scripts will demonstrate your ability to engage in the fundamental scripting and problem-solving approaches that are represented by the course outcomes.
-Reminder: This the first draft. Even if your script is not functioning perfectly, submit your draft and get feedback so that you can improve on it for the final submission in Module Five.
+~~Reminder: This the first draft. Even if your script is not functioning perfectly, submit your draft and get feedback so that you can improve on it for the final submission in Module Five.~~
 
 ## Prompt:
 For this script, you will be using variables and branches. A variable is used to remember a value for later use. The statement “age = 15” defines a variable named age, which Python uses to refer to a new object with the integer value 15. When a statement executes that assigns a value to an existing variable, Python updates the variable to refer to the newly assigned object. Likewise, reading a variable's value reads the value of the object referred to by the variable. So, in Python, if you set a variable to a string, the variable is now a type string object.
@@ -26,7 +26,7 @@ The following critical element is not submitted with your draft, but you should 
 
 ## Rubric
 ### Guidelines for Submission: 
-This is a draft of part of the final project. Complete the steps in Codio. Feedback will be provided by your instructor to incorporate in the final submission and the reflection document.
+~~This is a draft of part of the final project.~~ Complete the steps in Codio. Feedback will be provided by your instructor to incorporate in the final submission and the reflection document.
 
 ### Variables
 Identifies three uses and fundamental types of variables in code and explains using comments
